@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-ollama
+langchain-huggingface
+langchain-huggingface
+langchain-text-splitters
+pandas
+numpy
+faiss-cpu
+chroma
+python-dotenv
